@@ -111,6 +111,7 @@ h6 {
 #header #logo img {
   padding: 0;
   margin: 0;
+  max-height: 80px;
 }
 
 #header.header-fixed {
@@ -489,6 +490,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 100%;
 }
 
 /* Section with background
